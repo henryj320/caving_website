@@ -1,0 +1,95 @@
+# caving_website
+Last update: 2023-02-28 22:49
+<br><br>
+
+## Development notes for caving_website
+
+1. Created the project, board and basic files.
+2. Looking at Squarespace options:
+    - Personal - £12 per month (so £144 per year)
+        - Free custom domain
+        - Templates
+        - Mobile optimised
+    - Business - £17 per month (so £204 per year)
+        - All of personal
+        - Website analytics
+        - eCommerce
+3. Looking at hosting services:
+    - 000webhost.com
+        - Sale at the moment (Ends Sunday 5th March)
+        - Free web hosting - $0.00
+            - 1 website
+            - 300MB disk space
+            - 3GB max bandwidth
+            - No free domain
+        - Single shared Hosting - $1.99 per month (so $24 per year)
+            - 1 website
+            - 50GB disk space
+            - 100GB max bandwidth
+            - 1 email account
+            - Support anytime
+            - No free domain
+        - Premium Shared Hosting - $2.99 per month (so $36 per year)
+            - Then renews at $8.99 per month
+            - 100 websites
+            - 100GB disk space
+            - Unlimited bandwidth
+            - 100 email accounts
+            - Support anytime
+            - Free domain
+            - Weekly backups
+        - Business Shared Hosting - $3.99 per month (so $48 per year)
+            - 100 websites
+            - 200GB disk space
+            - Unlimited bandwidth
+            - 100 email accounts
+            - Support anytime
+            - Free domain
+            - Daily backups
+        - All have other features too.
+    - Hostinger
+        - More expensive than 000webhost.com
+        - Looking at the review
+            - 99.9% uptime
+            - Faster page load speed than Ionos#
+            - Actually good customer support! But they take a while.
+            - Good interface
+    - Ionos
+        - Plus - £1 per month (so £12 per year)
+            - Then renews at £8 per month after a year
+            - 250GB storage
+            - 250 DBs
+            - Unmetered bandwidth
+            - Free domain 7 SSL certificate
+            - Professional email
+            - Support anytime
+        - Looking at the review
+            - Has a dashboard, website builder, free domain, etc
+            - Good uptime (around 99.9%)
+            - Bad customer support
+    - So basically, 000webhost is cheaper, Ionis is more expensive but better. Actually, both have a higher renewal price so it is just which is better.
+    - Decision should be to either use Ionos or Hostinger
+        - Ionis
+            - £1 per month (£8 when you renew)
+            - Unlimited websites
+            - Unmetered bandwidth
+            - Free domain (for 1 yr and then £10 per year)
+            - SSL certificate
+            - Daily backups
+            - Free email account
+        - Hostinger
+            - £2.59 per month (£5.99 when you renew)
+            - 100 websites
+            - Unlimited bandwidth
+            - Free domain
+            - Unlimited free SSL
+            - Weekly backups
+            - Free email
+            - Support anytime
+    - Decided to go with Ionis.
+        - Need to tell Alfie:
+        - First year
+            - It would be £6 per month.
+            - £3 + £54 = £57 for the first year.
+        - After that
+            - It would be ((£6 x 12) + (£10 x 12)) = £72 + £120 = £192 per year.
